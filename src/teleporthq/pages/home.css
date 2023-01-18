@@ -1,4 +1,5 @@
 .home-container {
+  gap: var(--dl-space-space-unit);
   width: 100%;
   display: flex;
   overflow: auto;
