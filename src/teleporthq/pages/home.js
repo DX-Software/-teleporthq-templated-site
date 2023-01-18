@@ -11,6 +11,7 @@ const Home = (props) => {
         <title>Acclaimed Pricey Pheasant</title>
         <meta property="og:title" content="Acclaimed Pricey Pheasant" />
       </Helmet>
+      <button className="button">Button</button>
     </div>
   )
 }
